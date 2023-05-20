@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# Welcome to PAYHERO - Your Unbeatable Payment Partner
+# Welcome to PAYHERO - Your Unbeatable Payments Partner
 
 ![PAYHERO Logo](https://payherokenya.com/files/PayHero3.jpg)
 
