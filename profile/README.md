@@ -35,6 +35,5 @@ We understand the importance of smooth integration for tech-savvy individuals an
 
 Experience the Future of Payments with PAYHERO - Your Unbeatable Payment Partner. Join us today and unlock limitless possibilities for your business. Visit our [website](https://www.payherokenya.com/sps) to learn more and get started.
 
-[![Follow us on Instagram](https://www.instagram.com/payherokenya/)
-[![Twitter](https://example.com/twitter-button.png)](https://www.instagram.com/payherokenya/)
-[![LinkedIn](https://example.com/linkedin-button.png)](https://www.linkedin.com/company/pay-hero-kenya)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-2285/48/1_Instagram_colored_svg_1-48.png)](https://www.instagram.com/payherokenya/)
+[![LinkedIn](https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/48/linkedin-48.png)](https://www.linkedin.com/company/pay-hero-kenya)
