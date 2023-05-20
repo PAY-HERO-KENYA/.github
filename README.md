@@ -31,6 +31,6 @@ We understand the importance of smooth integration for tech-savvy individuals an
 
 - **Streamlined Registration**: Our streamlined registration process ensures quick approval, allowing you to dive into the world of seamless payments without any delays.
 
-Experience the Future of Payments with PAYHERO - Your Unbeatable Payment Partner. Join us today and unlock limitless possibilities for your business. Visit our [website](https://www.payhero.com) to learn more and get started.
+Experience the Future of Payments with PAYHERO - Your Unbeatable Payment Partner. Join us today and unlock limitless possibilities for your business. Visit our [website](https://www.payherokenya.com/sps) to learn more and get started.
 
 [![Follow us on Instagram](https://www.instagram.com/payherokenya/)
